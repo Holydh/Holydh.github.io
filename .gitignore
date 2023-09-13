@@ -29,3 +29,5 @@ ExportedObj/
 *.VC.db
 *.vsidx
 *.wsuo
+.vs/holydh.github.io/v17/.wsuo
+*.sqlite
