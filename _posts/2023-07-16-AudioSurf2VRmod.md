@@ -1,5 +1,5 @@
 ---
-date: 2010-09-10 12:26:40
+date: 2023-07-16 12:26:40
 layout: post
 title: AudioSurf 2 VR mod
 subtitle: A mod for AudioSurf 2 allowing to play in 6DOF VR.
