@@ -1,4 +1,5 @@
 ---
+date:
 layout: post
 title: Holydh's Portfolio
 subtitle: 'A showcase of previous and actual projects.'
