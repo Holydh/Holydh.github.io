@@ -6,9 +6,9 @@ subtitle: 'A showcase of previous and actual projects.'
 description: >-
   A showcase of previous and actual projects
 image: >-
-  https://file-examples.com/storage/fec36b918d65009119ed030/2017/04/file_example_MP4_480_1_5MG.mp4
+  /assets/img/test1.png
 optimized_image: >-
-  https://file-examples.com/storage/fec36b918d65009119ed030/2017/04/file_example_MP4_480_1_5MG.mp4
+  /assets/img/test1.png
 category: blog
 tags:
   - welcome
