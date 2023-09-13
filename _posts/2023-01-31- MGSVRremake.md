@@ -1,17 +1,16 @@
 ---
-date: 2017-06-04 12:00:00
+date: 2023-01-31 12:00:00
 layout: post
-title: A cook cries in the rain at night
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824575/theme14_gi2ypv.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824575/theme14_gi2ypv.jpg
-category: diet
+title: MGS VR project
+subtitle: A remake of a few MGS mechanics and geometry in VR using Unity for Quest 2 standalone.
+description: A remake of a few MGS mechanics and geometry in VR using Unity for Quest 2 standalone.
+category: unity
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
 tags:
-  - cook
-  - cucine
-  - story
-author: mranderson
+  - unity
+  - VR
+author: Holydh
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
