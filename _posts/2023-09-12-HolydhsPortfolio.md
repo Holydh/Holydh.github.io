@@ -6,9 +6,9 @@ subtitle: 'A showcase of previous and actual projects.'
 description: >-
   A showcase of previous and actual projects
 image: >-
-  https://f.hellowork.com/blogdumoderateur/2013/02/nyan-cat-gif-1.gif
+  https://file-examples.com/storage/fec36b918d65009119ed030/2017/04/file_example_MP4_480_1_5MG.mp4
 optimized_image: >-
-  https://f.hellowork.com/blogdumoderateur/2013/02/nyan-cat-gif-1.gif
+  https://file-examples.com/storage/fec36b918d65009119ed030/2017/04/file_example_MP4_480_1_5MG.mp4
 category: blog
 tags:
   - welcome
