@@ -10,7 +10,7 @@ optimized_image: /assets/img/posts/BoneworksMGS_Optimized.png
 tags:
   - Boneworks
   - VR
-author: holydh
+author: holydh 
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
