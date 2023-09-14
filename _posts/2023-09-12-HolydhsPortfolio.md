@@ -6,9 +6,9 @@ subtitle: 'A showcase of previous and actual projects.'
 description: >-
   A showcase of previous and actual projects
 image: >-
-  /assets/img/test1.png
+  https://webmshare.com/play/DeYgX
 optimized_image: >-
-  /assets/img/test1.png
+  https://webmshare.com/play/DeYgX
 category: blog
 tags:
   - welcome
