@@ -5,7 +5,7 @@ title: AudioSurf 2 VR mod
 subtitle: A mod for AudioSurf 2 allowing to play in 6DOF VR.
 description: A mod for AudioSurf 2 allowing to play in 6DOF VR.
 image: /assets/img/posts/AudioSurf2VR.png
-optimized_image: /assets/img/posts/AudioSurf2VR.png
+optimized_image: /assets/img/posts/AudioSurf2VR_Optimized.png
 category: modding
 tags:
   - modding

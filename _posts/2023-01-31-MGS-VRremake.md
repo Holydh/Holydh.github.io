@@ -6,7 +6,7 @@ subtitle: A remake of a few MGS mechanics and geometry in VR using Unity for Que
 description: A remake of a few MGS mechanics and geometry in VR using Unity for Quest 2 standalone.
 category: unity
 image: /assets/img/posts/MGSVR.png
-optimized_image: /assets/img/posts/MGSVR.png
+optimized_image: /assets/img/posts/MGSVR_Optimized.png
 tags:
   - unity
   - VR

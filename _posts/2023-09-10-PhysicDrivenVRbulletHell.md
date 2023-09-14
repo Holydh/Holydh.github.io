@@ -5,7 +5,7 @@ title: Unity DOTS - Physic VR simulation
 subtitle: A massive number of physic driven enemies powered by Unity DOTS.
 description: A massive number of physic driven enemies powered by Unity DOTS.
 image: /assets/img/posts/BulletHellVR.png
-optimized_image: /assets/img/posts/BulletHellVR.png
+optimized_image: /assets/img/posts/BulletHellVR_Optimized.png
 category: unity
 tags:
   - unityDOTS

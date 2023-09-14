@@ -6,7 +6,7 @@ subtitle: The three first levels of MGS1 for Boneworks recreated in 1:1 scale. I
 description: The three first levels of MGS1 for Boneworks recreated in 1:1 scale. Including custom maps, weapons, npcs, player models and nice various features.
 category: modding
 image: /assets/img/posts/BoneworksMGS.png
-optimized_image: /assets/img/posts/BoneworksMGS.png
+optimized_image: /assets/img/posts/BoneworksMGS_Optimized.png
 tags:
   - Boneworks
   - VR

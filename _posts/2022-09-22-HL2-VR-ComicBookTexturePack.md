@@ -6,7 +6,7 @@ subtitle: A texture pack for HL2 & HL2VR with Borderland like style.
 description: A texture pack for HL2 & HL2VR with Borderland like style.
 category: modding
 image: /assets/img/posts/ComicBookMod.png
-optimized_image: /assets/img/posts/ComicBookMod.png
+optimized_image: /assets/img/posts/ComicBookMod_Optimized.png
 tags:
   - HL2
   - modding

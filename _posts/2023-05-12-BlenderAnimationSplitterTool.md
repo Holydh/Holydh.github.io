@@ -5,7 +5,7 @@ title: Blender animation splitter tool
 subtitle: A python script allowing to detect differences between frames and split animations accordingly.
 description: A python script allowing to detect differences between frames and split animations accordingly.
 image: /assets/img/posts/AnimationSplitter.png
-optimized_image: /assets/img/posts/AnimationSplitter.png
+optimized_image: /assets/img/posts/AnimationSplitter_Optimized.png
 category: blender
 tags:
   - blender

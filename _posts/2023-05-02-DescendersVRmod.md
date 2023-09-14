@@ -5,7 +5,7 @@ title: Descenders VR mod
 subtitle: A mod for Descenders allowing to play in 6DOF VR.
 description: A mod for Descenders allowing to play in 6DOF VR.
 image: /assets/img/posts/DescendersVR.png
-optimized_image: /assets/img/posts/DescendersVR.png
+optimized_image: /assets/img/posts/DescendersVR_Optimized.png
 category: music
 tags:
   - music
