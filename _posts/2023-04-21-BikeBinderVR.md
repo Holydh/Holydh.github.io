@@ -4,13 +4,13 @@ layout: post
 title: Bike Binder VR
 subtitle: A tool to physically control Riders Republic game from a bike trainer and VR setup.
 description: A tool to physically control Riders Republic game from a bike trainer and VR setup.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824575/theme14_gi2ypv.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824575/theme14_gi2ypv.jpg
+image: /assets/img/posts/BikeBinderVR.png
+optimized_image: /assets/img/posts/BikeBinderVR.png
 category: software
 tags:
   - C#
   - software
-author: Holydh
+author: holydh
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

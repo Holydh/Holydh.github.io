@@ -4,14 +4,14 @@ layout: post
 title: Descenders VR mod
 subtitle: A mod for Descenders allowing to play in 6DOF VR.
 description: A mod for Descenders allowing to play in 6DOF VR.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824822/theme15_oqsl4z.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824822/theme15_oqsl4z.jpg
+image: /assets/img/posts/DescendersVR.png
+optimized_image: /assets/img/posts/DescendersVR.png
 category: music
 tags:
   - music
   - band
   - passion
-author: mranderson
+author: holydh
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

@@ -5,12 +5,12 @@ title: ComicBook style Texture Pack for HL2 & HL2VR
 subtitle: A texture pack for HL2 & HL2VR with Borderland like style.
 description: A texture pack for HL2 & HL2VR with Borderland like style.
 category: modding
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
+image: /assets/img/posts/ComicBookMod.png
+optimized_image: /assets/img/posts/ComicBookMod.png
 tags:
   - HL2
   - modding
-author: Holydh
+author: holydh
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

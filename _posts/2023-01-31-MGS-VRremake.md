@@ -5,12 +5,12 @@ title: MGS VR project
 subtitle: A remake of a few MGS mechanics and geometry in VR using Unity for Quest 2 standalone.
 description: A remake of a few MGS mechanics and geometry in VR using Unity for Quest 2 standalone.
 category: unity
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
+image: /assets/img/posts/MGSVR.png
+optimized_image: /assets/img/posts/MGSVR.png
 tags:
   - unity
   - VR
-author: Holydh
+author: holydh
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

@@ -1,15 +1,15 @@
 ---
 date: 2023-09-10 12:26:40
 layout: post
-title: Unity DOTS - Physic driven VR Bullet Hell
+title: Unity DOTS - Physic VR simulation
 subtitle: A massive number of physic driven enemies powered by Unity DOTS.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
+description: A massive number of physic driven enemies powered by Unity DOTS.
+image: /assets/img/posts/BulletHellVR.png
+optimized_image: /assets/img/posts/BulletHellVR.png
 category: unity
 tags:
   - unityDOTS
-author: Holydh
+author: holydh
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

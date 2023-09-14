@@ -5,12 +5,12 @@ title: MGS Boneworks mod
 subtitle: The three first levels of MGS1 for Boneworks recreated in 1:1 scale. Including custom maps, weapons, npcs, player models and nice various features.
 description: The three first levels of MGS1 for Boneworks recreated in 1:1 scale. Including custom maps, weapons, npcs, player models and nice various features.
 category: modding
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
+image: /assets/img/posts/BoneworksMGS.png
+optimized_image: /assets/img/posts/BoneworksMGS.png
 tags:
   - Boneworks
   - VR
-author: Holydh
+author: holydh
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
