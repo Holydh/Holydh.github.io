@@ -5,8 +5,8 @@ title: Holydh's Portfolio
 subtitle: 'A showcase of previous and actual projects.'
 description: >-
   A showcase of previous and actual projects
-image:
-optimized_image:
+image: /assets/img/posts/blog-image.png
+optimized_image: /assets/img/posts/blog-image.png
 category: blog
 tags:
   - welcome
