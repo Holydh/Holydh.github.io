@@ -27,24 +27,15 @@ Here's my own solution to train forklift users in a professional environment, al
 <div class="video-container">
     <video autoplay loop muted playsinline poster="/assets/img/loading.gif" src="/assets/img/videos/Forklift2.mp4" type="video/mp4" preload="auto"></video>
 </div>
-<div class="video-description">
-    <p>A simple menu allows to quickly set the user's height </p>
-</div>
 
 Physic of the vehicle as well as the loads it'll operate is an important part of the simulation, allowing the user to understand the risks involved in operating a forklift.
 
 <div class="video-container">
     <video autoplay loop muted playsinline poster="/assets/img/loading.gif" src="/assets/img/videos/Forklift3.mp4" type="video/mp4" preload="auto"></video>
 </div>
-<div class="video-description">
-    <p>The importance of evaluating the load's weight</p>
-</div>
 
 VR comfort is a crucial point for users. A vignette toggleable vignette settings helps preventing motion sickness in most cases.
 
 <div class="video-container">
     <video autoplay loop muted playsinline poster="/assets/img/loading.gif" src="/assets/img/videos/Forklift4.mp4" type="video/mp4" preload="auto"></video>
-</div>
-<div class="video-description">
-    <p>Vignette setting</p>
 </div>
