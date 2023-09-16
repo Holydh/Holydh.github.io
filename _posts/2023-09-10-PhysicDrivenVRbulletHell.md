@@ -23,7 +23,7 @@ Furthermore, the Unity DOTS physics package, renowned for its capacity to handle
     <p>latest version : 20 000 physic entities driven by a custom movement system, recorded in editor.</p>
 </div>
 
-Additionally, this project provided a good opportunity to delve into <strong>VFX graph technology</strong>, facilitating the transition of allocated resources from the CPU to the GPU. Given the CPU-intensive nature of physics simulations, this shift empowered me <strong>to further scale the number of physical entities within the project.</strong>
+Additionally, this provided a good opportunity to delve into <strong>VFX graph technology</strong>, facilitating the transition of allocated resources from the CPU to the GPU. Given the CPU-intensive nature of physics simulations, this shift empowered me <strong>to further scale the number of physical entities within the project.</strong>
 
 <div class="video-container">
     <video autoplay loop muted playsinline src="https://drive.google.com/uc?export=download&id=10JhhigZRaCxljMBYLUsvr77VpDpAcx5H" type="video/mp4" preload="auto"></video>
@@ -32,7 +32,7 @@ Additionally, this project provided a good opportunity to delve into <strong>VFX
     <p>VR gameplay of an earlier prototype.</p>
 </div>
 
-This project also served as a means <strong>to consolidate and enhance my existing skill</strong> set encompassing various domains, including VR interactions, game and level design, modeling, texturing, VFX, audio management, lighting, and post-processing.
+It also allowed me <strong>to consolidate and enhance my existing skill set</strong> encompassing various domains, including VR interactions, game and level design, modeling, texturing, VFX, audio management, lighting, and post-processing.
 
 
 <div class="video-container">
