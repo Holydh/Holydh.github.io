@@ -6,130 +6,45 @@ subtitle: A VR training app for professionals forklift drivers for Quest 2.
 description: A VR training app for professionals forklift drivers for Quest 2.
 image: /assets/img/posts/ForkliftVR.png
 optimized_image: /assets/img/posts/ForkliftVR_Optimized.png
-category: modding
+category: unity
 tags:
-  - modding
+  - unity
   - VR
 author: holydh
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Virtual Reality is highly useful for real-life training due to its immersive learning environment, safety benefits, repeatability of scenarios, cost-effectiveness, customization, instant feedback, and its ability to overcome physical limitations. It offers a safe space for learners to practice and learn from mistakes. While it's not suitable for all training needs, VR has the potential to enhance training across various industries.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+<div class="video-container">
+    <video autoplay loop muted playsinline poster="/assets/img/loading.gif" src="/assets/img/videos/Forklift1.mp4" type="video/mp4" preload="auto"></video>
+</div>
+<div class="video-description">
+    <p>Forklift is entirely controllable physically, allowing trainees to familiarize with its operation</p>
+</div>
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Here's my own solution to train forklift users in a professional environment, allowing them to quickly learn the safety practises and familiarize with the tools they will operate on their job.
 
-## Inline HTML elements
+<div class="video-container">
+    <video autoplay loop muted playsinline poster="/assets/img/loading.gif" src="/assets/img/videos/Forklift2.mp4" type="video/mp4" preload="auto"></video>
+</div>
+<div class="video-description">
+    <p>A simple menu allows to quickly set the user's height </p>
+</div>
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Physic of the vehicle as well as the loads it'll operate is an important part of the simulation, allowing the user to understand the risks involved in operating a forklift.
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+<div class="video-container">
+    <video autoplay loop muted playsinline poster="/assets/img/loading.gif" src="/assets/img/videos/Forklift3.mp4" type="video/mp4" preload="auto"></video>
+</div>
+<div class="video-description">
+    <p>The importance of evaluating the load's weight</p>
+</div>
 
-Most of these elements are styled by browsers with few modifications on our part.
+VR comfort is a crucial point for users. A vignette toggleable vignette settings helps preventing motion sickness in most cases.
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
+<div class="video-container">
+    <video autoplay loop muted playsinline poster="/assets/img/loading.gif" src="/assets/img/videos/Forklift4.mp4" type="video/mp4" preload="auto"></video>
+</div>
+<div class="video-description">
+    <p>Vignette setting</p>
+</div>

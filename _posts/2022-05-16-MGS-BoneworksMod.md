@@ -13,6 +13,27 @@ tags:
 author: holydh
 ---
 
+<div class="video-container">
+    <video autoplay loop muted playsinline poster="/assets/img/loading.gif" src="/assets/img/videos/BoneworksMGS1-1.mp4" type="video/mp4" preload="auto"></video>
+</div>
+<div class="video-description">
+    <p>description</p>
+</div>
+
+<div class="video-container">
+    <video autoplay loop muted playsinline poster="/assets/img/loading.gif" src="/assets/img/videos/BoneworksMGS1-2.mp4" type="video/mp4" preload="auto"></video>
+</div>
+<div class="video-description">
+    <p>description</p>
+</div>
+
+<div class="video-container">
+    <video autoplay loop muted playsinline poster="/assets/img/loading.gif" src="/assets/img/videos/BoneworksMGS1-3.mp4" type="video/mp4" preload="auto"></video>
+</div>
+<div class="video-description">
+    <p>description</p>
+</div>
+
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
