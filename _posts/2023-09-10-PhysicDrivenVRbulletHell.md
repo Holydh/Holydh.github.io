@@ -17,26 +17,26 @@ This project was initiated with the primary goal of <strong>enhancing my coding 
 Furthermore, the Unity DOTS physics package, renowned for its capacity to handle an extensive number of physics entities, captivated my interest and curiosity. This project not only facilitated my learning journey but also allowed me to create visually appealing simulations : <strong>a perfect blend of aesthetics and technical skill development.</strong> It has been a truly rewarding experience.
 
 <div class="video-container">
-    <video autoplay loop muted playsinline src="/assets/img/BulletHell1.mp4" type="video/mp4"></video>
+    <video autoplay loop muted playsinline src="/assets/img/BulletHell1.mp4" type="video/mp4" preload="auto"></video>
 </div>
 <div class="video-description">
-    <p>20 000 physic entities driven by a custom movement system.</p>
+    <p>latest version : 20 000 physic entities driven by a custom movement system, recorded in editor.</p>
 </div>
 
 Additionally, this project provided a good opportunity to delve into <strong>VFX graph technology</strong>, facilitating the transition of allocated resources from the CPU to the GPU. Given the CPU-intensive nature of physics simulations, this shift empowered me <strong>to further scale the number of physical entities within the project.</strong>
 
 <div class="video-container">
-    <video autoplay loop muted playsinline src="/assets/img/BulletHell2.mp4" type="video/mp4"></video>
+    <video autoplay loop muted playsinline src="https://drive.google.com/uc?export=download&id=10JhhigZRaCxljMBYLUsvr77VpDpAcx5H" type="video/mp4" preload="auto"></video>
 </div>
 <div class="video-description">
-    <p>VR gameplay of an early prototype.</p>
+    <p>VR gameplay of an earlier prototype.</p>
 </div>
 
 This project also served as a means <strong>to consolidate and enhance my existing skill</strong> set encompassing various domains, including VR interactions, game and level design, modeling, texturing, VFX, audio management, lighting, and post-processing.
 
 
 <div class="video-container">
-    <video autoplay loop muted playsinline src="/assets/img/BulletHell3.mp4" type="video/mp4"></video>
+    <video autoplay loop muted playsinline src="https://drive.google.com/uc?export=download&id=1Wu2BCLxZ9jaldO1_3cJLpMfIqCmpgYn8" type="video/mp4" preload="auto"></video>
 </div>
 <div class="video-description">
     <p>Smooth entities movement chasing the player.</p>
